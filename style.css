@@ -6,7 +6,6 @@
     margin: 15px 15px;
 }
 .blocks{
-    flex-flow: wrap;
+    flex-wrap: wrap;
     display: flex;
-    flex-direction: row-reverse  wrap;
 }
