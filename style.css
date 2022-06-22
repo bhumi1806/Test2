@@ -1,0 +1,12 @@
+
+.block{
+    background-color: rgb(163,161,161);
+    height: 200px;
+    width: 200px;
+    margin: 15px 15px;
+}
+.blocks{
+    flex-flow: wrap;
+    display: flex;
+    flex-direction: row-reverse  wrap;
+}
